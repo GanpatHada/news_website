@@ -1,0 +1,33 @@
+.btn{
+    color:white;
+    background-color:#0d6efd;
+    border: 1.5px solid white;
+    transition: 0.5s;
+}
+.btn:hover{
+    color:#0d6efd;
+    background-color: rgb(255, 255, 255);
+   
+}
+.btn:active{
+    color:white;
+    background-color:#0d6efd;
+    border: 1.5px solid white;
+    
+}
+a{
+    color: white !important;
+    height: 100%;
+
+}
+
+a:hover{
+   color: aquamarine!important;
+}
+.active{
+    border-bottom: 2px solid white;
+    
+}
+.applogo{
+    border: 2px solid white;
+}

@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob Picheta, Claudia Otto and Nadine Schmidt, CNN",
+            "title": "Pope Benedict XVI knew of abusive priests when he ran Munich archdiocese, investigators say - CNN",
+            "description": "Pope Benedict XVI knew about priests who abused children but failed to act when he was archbishop of Munich from 1977 to 1982, an inquest found Thursday, rejecting Benedict's long-standing denials in a damning judgment.",
+            "url": "https://www.cnn.com/2022/01/20/europe/pope-benedict-xvi-munich-abuse-report-catholic-church-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220120120003-ratzinger-child-abuse-file-033011-super-tease.jpg",
+            "publishedAt": "2022-01-20T12:26:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Aid finally reaches devastated Tonga, water supply ship awaited - Reuters",
+            "description": "The first emergency supply aircraft reached Tonga on Thursday, five days after a devastating volcanic eruption and tsunami, as dispersed communities awaited the arrival of a ship with equipment to scale up supplies of drinking water.",
+            "url": "https://www.reuters.com/world/tongans-make-contact-with-world-phone-lines-partially-restored-after-tsunami-2022-01-19/",
+            "urlToImage": "https://www.reuters.com/resizer/c3y6xhaJh8d9YeIvUhhnkcmuweM=/825x432/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FCP6MUJCNNJK3MYZFNF4ETDLDE.jpg",
+            "publishedAt": "2022-01-20T11:28:00Z",
+            "content": "Jan 20 (Reuters) - The first emergency supply aircraft reached Tonga on Thursday, five days after a devastating volcanic eruption and tsunami, as dispersed communities awaited the arrival of a ship w… [+4600 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Chloe Taylor",
+            "title": "Antibiotic-resistant infections are a ‘major global health threat’ that’s killing millions, scientists say - CNBC",
+            "description": "A huge new global study found that drug-resistant bacterial infections played a part in almost 5 million deaths in 2019.",
+            "url": "https://www.cnbc.com/2022/01/20/antibiotic-resistant-infections-are-killing-millions-scientists-say-in-lancet-study.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105869618-1556127268666gettyimages-177167943.jpeg?v=1556127301",
+            "publishedAt": "2022-01-20T11:16:46Z",
+            "content": "Drug-resistant bacteria killed almost 1.3 million people in 2019, scientists have estimated more than either HIV or malaria.\r\nResearchers also estimated that antibiotic-resistant bacterial infections… [+4965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Video Games Chronicle"
+            },
+            "author": "Tom Ivan",
+            "title": "Activision says it’s not planning to remove existing PlayStation games following Xbox acquisition - Video Games Chronicle",
+            "description": "Company explains how the deal will impact current partner agreements…",
+            "url": "https://www.videogameschronicle.com/news/activision-says-its-not-planning-to-remove-existing-playstation-games-following-xbox-acquisition/",
+            "urlToImage": "https://www.videogameschronicle.com/files/2021/02/Crash-Bandicoot-4-its-about-time-c-scaled.jpg",
+            "publishedAt": "2022-01-20T10:09:02Z",
+            "content": "Activision Blizzard says it has no intention of removing existing games from other platforms once it has been acquired by Xbox owner Microsoft.\r\nIt was announced this week that Microsoft intends to p… [+2066 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Kim Khan",
+            "title": "Tech is now in a correction: wall of worry or bubble echoes? - Seeking Alpha",
+            "description": "Technology stocks are officially in correction territory after yesterday's late Wall Street selloff.",
+            "url": "https://seekingalpha.com/news/3789488-tech-is-now-in-a-correction-wall-of-worry-or-bubble-echoes",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/652911582/medium_image_652911582.jpg",
+            "publishedAt": "2022-01-20T09:59:00Z",
+            "content": "honglouwawa/iStock via Getty Images"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob Picheta and Sharon Braithwaite, CNN",
+            "title": "Two men arrested in UK as part of investigation into Texas synagogue standoff, police say - CNN",
+            "description": "Two men have been arrested in the UK cities of Birmingham and Manchester as part of the ongoing investigation into the Texas synagogue hostage standoff, Greater Manchester Police said Thursday in a statement.",
+            "url": "https://www.cnn.com/2022/01/20/uk/texas-synagogue-manchester-arrested-intl-gbr/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220116222953-02-hostage-congregation-beth-israel-colleyville-texas-super-tease.jpg",
+            "publishedAt": "2022-01-20T09:21:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Tonga: First foreign aid planes arrive bearing crucial supplies - BBC News",
+            "description": "It comes after the Pacific nation was left devastated by a volcanic eruption and subsequent tsunami.",
+            "url": "https://www.bbc.com/news/world-asia-60063732",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14348/production/_122906728_planmeflgith.png",
+            "publishedAt": "2022-01-20T08:58:38Z",
+            "content": "Image source, NZ DEFENCE FORCE\r\nImage caption, A New Zealand Hercules aircraft carrying emergency supplies left Auckland this morning\r\nThe first foreign aid planes have arrived in Tonga, bearing much… [+5689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Lawrence O. Gostin",
+            "title": "Starbucks Hides Behind Supreme Court to Ditch Vaccine Rule - The Daily Beast",
+            "description": "Some workers and their families will get very sick, become hospitalized, or even die because of the coffee giant’s decision.",
+            "url": "https://www.thedailybeast.com/starbucks-hides-behind-supreme-court-to-ditch-vaccine-rule",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1642640345/220119starbucks-vaccines-hero_b5z1wn",
+            "publishedAt": "2022-01-20T08:52:04Z",
+            "content": "Last week, the U.S. Supreme Court blocked the Biden administration from forcing large employers to mandate vaccination or testing for employees, an irrational and deadly decision that will likely pro… [+5813 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. Supreme Court spurns Trump bid to keep Capitol attack records secret - Reuters",
+            "description": "The U.S. Supreme Court on Wednesday rejected former President Donald Trump's request to block the release of White House records sought by the <a href=\"https://www.reuters.com/world/us/giuliani-other-pro-trump-lawyers-hit-with-subpoenas-over-jan-6-attack-2022…",
+            "url": "https://www.reuters.com/world/us/us-supreme-court-spurns-trump-bid-keep-capitol-attack-records-secret-2022-01-19/",
+            "urlToImage": "https://www.reuters.com/resizer/DI5qiAynxkrK5KCi_KbiuSG7vNo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6MCLFEIIGNKZPE3WTKXHEV35GM.jpg",
+            "publishedAt": "2022-01-20T08:50:00Z",
+            "content": "WASHINGTON, Jan 19 (Reuters) - The U.S. Supreme Court on Wednesday rejected former President Donald Trump's request to block the release of White House records sought by the Democratic-led congressio… [+4121 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mike Snider, USA TODAY",
+            "title": "Why your 5G phone concerns the airline industry: What we know about the impact on travel, flights and more - USA TODAY",
+            "description": "Amid warnings of 'incalculable' damage to economy from airline industry, AT&T and Verizon are delaying 5G rollout near airports. Here's what we know.",
+            "url": "https://www.usatoday.com/story/tech/2022/01/19/5-g-network-flights-verizon-att/6564872001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/17/USAT/6d7414c6-55f6-4ccc-9fc1-52e2f4dd400b-GTY_1359236140.jpg?auto=webp&crop=5409,3043,x0,y275&format=pjpg&width=1200",
+            "publishedAt": "2022-01-20T08:19:45Z",
+            "content": "Telecommunication giants AT&amp;T and Verizon are ready to expand their 5G services, but airlines want to prevent their complete takeoff over safety concerns at some of the nation's airports.\r\nThe tw… [+7466 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Edmund DeMarche",
+            "title": "Biden's answers were ‘foggy’ at times, like Reagan at end of presidency, CNN’s Van Jones says - Fox News",
+            "description": "President Biden gave some \"foggy\" and \"meandering\" answers during his marathon press conference Wednesday and--at times-- resembled former President Reagan at the end of his presidency, CNN’s Van Jones said.",
+            "url": "https://www.foxnews.com/media/biden-appeared-foggy-like-reagan-at-the-end-cnns-van-jones-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/Van-Jones.jpg",
+            "publishedAt": "2022-01-20T07:22:25Z",
+            "content": "President Biden gave some \"foggy\" and \"meandering\" answers during his marathon press conference Wednesday and--at times-- resembled former President Reagan at the end of his presidency, CNNs Van Jone… [+1957 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mike Bohn",
+            "title": "Dana White: 'I don't feel confident saying that Jon Jones is next' for Ngannou vs. Gane winner - MMA Junkie",
+            "description": "Dana White says the future of Jon Jones rests in his own hands.",
+            "url": "https://mmajunkie.usatoday.com/2022/01/ufc-270-dana-white-not-confident-jon-jones-challenges-francis-ngannou-ciryl-gane-winner",
+            "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2021/09/jon-jones-ufc-247-getty.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2022-01-20T05:50:00Z",
+            "content": "UFC president Dana White says the future of Jon Jones rests in his own hands.\r\nThe general consensus among the MMA world going into Saturday’s UFC 270 is that Jones (26-1 MMA, 20-1 UFC) will challeng… [+1730 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Emmanuel Morgan",
+            "title": "N.F.L. Divisional Round: Our Picks Against the Spread - The New York Times",
+            "description": "Green Bay and Tennessee will have the benefit of a week’s rest against San Francisco and Cincinnati. Buffalo and Kansas City will provide tougher tests for each other after coasting last week. The Bucs and the Rams’ veteran quarterbacks will take center stage.",
+            "url": "https://www.nytimes.com/2022/01/20/sports/football/nfl-divisional-round-picks.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/20/sports/20nfl-matchups-arod/20nfl-matchups-arod-facebookJumbo.jpg",
+            "publishedAt": "2022-01-20T05:01:06Z",
+            "content": "On paper, the Rams have the better, and healthier, team. Odell Beckham Jr. has caught six touchdown passes in nine games with Los Angeles, Cooper Kupp leads the league in every receiving category tha… [+2132 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Julian E. Barnes",
+            "title": "Most ‘Havana Syndrome’ Cases Unlikely Caused by Foreign Power, C.I.A. Says - The New York Times",
+            "description": "A report concluded that most cases have environmental or medical causes, but the government remains focused on investigating two dozen incidents that remain unexplained.",
+            "url": "https://www.nytimes.com/2022/01/20/us/politics/havana-syndrome-cia-report.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/07/26/us/politics/20dc-Havana/26political-briefing-havana-facebookJumbo.jpg",
+            "publishedAt": "2022-01-20T05:00:20Z",
+            "content": "The agency has never accused Russia or another power of being responsible, but some officials, particularly in the Pentagon, said they believed there was evidence of the involvement of Moscows spy ag… [+2076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jesse O’Neill",
+            "title": "No-vax Novak Djokovic considers lawsuit against Australia for $4.4M - New York Post ",
+            "description": "Novak Djokovic is considering suing Australia’s government after he was deported in the interest of public health ahead of the Australian Open.",
+            "url": "https://nypost.com/2022/01/19/novak-djokovic-considers-lawsuit-against-australia/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/dvokovic-lawsuit-369.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-01-20T04:26:00Z",
+            "content": "Unvaccinated tennis star Novak Djokovic is considering serving Australia’s government with a lawsuit after he was deported in the interest of public health ahead of the Australian Open.\r\nDjokovic, 34… [+2389 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": null,
+            "title": "Vaccinated kids half as likely to get Omicron, but protection fades fast — study - The Times of Israel",
+            "description": "Health Ministry-led research also shows teens who got booster shot over four months ago only slightly better off than unvaccinated; hospitalizations among kids reportedly on rise",
+            "url": "https://www.timesofisrael.com/vaccinated-kids-half-as-likely-to-get-omicron-but-protection-fades-fast-study/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2022/01/F211216MG07-1024x640.jpg",
+            "publishedAt": "2022-01-20T04:22:08Z",
+            "content": "Israeli children who were vaccinated against the coronavirus are catching the Omicron variant at less than half the rate of their unvaccinated peers, according to new research released late Wednesday… [+4677 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Bradner, CNN",
+            "title": "Voting rights fight shifts back to statehouses as Senate Democrats fail to advance national protections - CNN",
+            "description": "Just weeks from the first primaries of the 2022 midterm elections, the fight over voting rights is unfolding again at the state level -- with Republicans in several swing states proposing new measures that would make it harder to vote.",
+            "url": "https://www.cnn.com/2022/01/19/politics/whats-next-voting-rights/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210722142920-vote-us-super-tease.jpg",
+            "publishedAt": "2022-01-20T03:54:00Z",
+            "content": "(CNN)Just weeks from the first primaries of the 2022 midterm elections, the fight over voting rights is unfolding again at the state level -- with Republicans in several swing states proposing new me… [+7082 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Megan Sheets",
+            "title": "Brianna Kupfer - latest: Covid backlog caused delay in trial of suspect Shawn Laval Smith on gun charge - The Independent",
+            "description": "Brianna Kupfer: Live news on Croft House killing",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/brianna-kupfer-death-shawn-laval-smith-latest-b1996819.html",
+            "urlToImage": "https://static.independent.co.uk/2022/01/18/13/newFile-12.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2022-01-20T03:30:13Z",
+            "content": "Who is Shawn Laval Smith? Homeless suspect in stabbing of UCLA grad student Brianna Kupfer\r\nShawn Laval Smith, 31, was arrested in connection to the stabbing UCLA graduate student Brianna Kupfer to d… [+999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": null,
+            "title": "Report: Harbaugh might leave Michigan for Raiders - NBC Sports Chicago",
+            "description": "Bears fans have clamored for the Michigan Wolverines coach to replace Matt Nagy",
+            "url": "https://www.nbcsports.com/chicago/bears/bears-head-coach-search-jim-harbaugh-might-leave-raiders",
+            "urlToImage": "https://www.nbcsports.com/sites/rsnunited/files/styles/metatags_opengraph/public/slide/image/Harbaugh_J_USATSI_15248822_168392293_lowres.jpg?h=e9809c94",
+            "publishedAt": "2022-01-20T03:27:22Z",
+            "content": "One of the biggest questions Bears fans have tried to answer this offseason is, what is Jim Harbaugh thinking? Does he really want to go back to the NFL? Or is he leaning towards staying at Michigan … [+2140 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cbslocal.com"
+            },
+            "author": "CBSLA Staff",
+            "title": "Marvel Actor Gaspard Ulliel Dead At 37 Following Ski Accident - CBS Los Angeles",
+            "description": "Actor Gaspard Ulliel died from injuries he suffered in a skiing accident in southeastern France on Tuesday.",
+            "url": "https://losangeles.cbslocal.com/2022/01/19/marvel-actor-gaspard-ulliel-dead-ski-accident/",
+            "urlToImage": "https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2022/01/GettyImages-808621860.jpg?w=1500",
+            "publishedAt": "2022-01-20T03:06:00Z",
+            "content": "LOS ANGELES (CBSLA) An award-winning French actor who was set to make his Marvel Studios debut has died.\r\nFrench Prime Minister Jean Castex confirmed the death of actor Gaspard Ulliel.\r\nREAD MORE: Jo… [+664 chars]"
+        }
+    ]
+}
